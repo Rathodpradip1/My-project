@@ -1,0 +1,5 @@
+numpy                     2.2.3                    pypi_0    pypi
+streamlit                 1.43.2                   pypi_0    pypi
+scikit-learn              1.6.1                    pypi_0    pypi
+streamlit-option-menu     0.4.0
+pickle-mixin              1.0.2
